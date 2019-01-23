@@ -1,3 +1,5 @@
 -redirecting when error input format param
 -blackbox
 -replace
+-stripslashes
+-mysql_real_escape_string
