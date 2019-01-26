@@ -3,3 +3,4 @@
 -replace
 -stripslashes
 -mysql_real_escape_string
+-limit input string
