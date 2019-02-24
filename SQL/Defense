@@ -5,3 +5,4 @@
 -mysql_real_escape_string
 -limit input string
 -magic_quotes()
+-stristr($query,'select') => break string have select
