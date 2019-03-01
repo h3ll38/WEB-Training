@@ -1,1 +1,3 @@
 blacklist -> convert all to charcode
+length -> comment
+filter ->nullbyte(%00)
