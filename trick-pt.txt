@@ -1,3 +1,4 @@
 focus in:
 - input field
 - example.com/index.php/?inject = query
+- becaful with param defaut was insert by client occur break query correct , check parram in BS!
