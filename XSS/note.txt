@@ -11,4 +11,7 @@ filter ->nullbyte(%00)
 PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K" = <script>alert('XSS')</script>
 ========================================
 replace :  echo 'Hello ' . str_replace('<script>', '', $_GET['query']);
+========================================
+developer focus to lower case and upper case in case attacker exploit by pass filter
+<script> = <SCRIPT> or mix <ScRiPt>
 
