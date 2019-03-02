@@ -1,0 +1,3 @@
+focus in:
+- input field
+- example.com/index.php/?inject = query
