@@ -1,0 +1,1 @@
+<body src=x onload="prompt(String.fromCharCode(120,115));">//
