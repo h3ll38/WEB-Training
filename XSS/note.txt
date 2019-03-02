@@ -1,6 +1,7 @@
-blacklist -> convert all to charcode
-maxlength -> comment
-filter ->nullbyte(%00)
+blacklist ->  convert all to charcode
+maxlength ->  comment
+filter    ->  nullbyte(%00)
+addslash  ->  query basic or url encode 
 &quot;  “
 &apos;  ‘
 &lt;    <
