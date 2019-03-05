@@ -1,0 +1,7 @@
+https://www.we45.com/blog/server-side-template-injection-a-crash-course-
+https://ctftime.org/writeup/10895
+https://www.blackhat.com/docs/us-15/materials/us-15-Kettle-Server-Side-Template-Injection-RCE-For-The-Modern-Web-App-wp.pdf
+https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti
+https://medium.com/bugbountywriteup/tokyowesterns-ctf-4th-2018-writeup-part-3-1c8510dfad3f
+https://damyanon.net/post/flask-series-security/
+https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti
