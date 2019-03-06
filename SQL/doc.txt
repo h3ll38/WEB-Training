@@ -1,0 +1,1 @@
+https://www.owasp.org/images/e/ed/GOD16-NOSQL.pdf     MongoDB-NOSQL
