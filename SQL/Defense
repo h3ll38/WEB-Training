@@ -6,6 +6,3 @@
 -limit input string
 -magic_quotes()
 -stristr($query,'select') => break string have select
-==================================================
-|NO SQL : Filter: [, ], {, }, $or, $and, $regex, |
-==================================================
