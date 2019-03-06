@@ -1,5 +1,6 @@
 doc : https://stackoverflow.com/questions/406230/regular-expression-to-match-a-line-that-doesnt-contain-a-word
 doc : https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html
+doc : https://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like
 inverse : ^((?!hede).)*$
 $regex = same LIKE
 $gt,$gte,$ne ... compare syntax
