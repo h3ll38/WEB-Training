@@ -4,3 +4,5 @@ focus in:
 - becaful with param defaut was insert by client occur break query correct , check parram in BS!
 - Nose.js -> MongoDB (https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html)
 - send data by curl https://medium.com/@petehouston/upload-files-with-curl-93064dcccc76?fbclid=IwAR1J_8D6M_fEYXM1eDOmA8rO3SkJxDjePiQbk27fGdP8wCHS9PDhHM9guHc
+==========================
+/dev/fd is symlinked to /proc/self/fd
