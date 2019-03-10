@@ -6,3 +6,4 @@ focus in:
 - send data by curl https://medium.com/@petehouston/upload-files-with-curl-93064dcccc76?fbclid=IwAR1J_8D6M_fEYXM1eDOmA8rO3SkJxDjePiQbk27fGdP8wCHS9PDhHM9guHc
 ==========================
 /dev/fd is symlinked to /proc/self/fd
+LFI exploits rely on environment conditions quite a lot, ways to overcome it depend on the version of PHP, so first we need to see its php version to be able to show the most reasonable attack! !!
