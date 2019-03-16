@@ -8,6 +8,7 @@
 /proc/self/environ
 /proc/version
 /proc/cmdline
+.DS_Store (MAC)
 ============================================
 Nullbyte fixed in 5.3.8
 ===============================
