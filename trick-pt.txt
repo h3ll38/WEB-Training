@@ -7,3 +7,10 @@ focus in:
 ==========================
 /dev/fd is symlinked to /proc/self/fd
 LFI exploits rely on environment conditions quite a lot, ways to overcome it depend on the version of PHP, so first we need to see its php version to be able to show the most reasonable attack! !!
+============================
+The full list of field-name characters that PHP converts to _ (underscore) is the following (not just dot):
+chr(32) ( ) (space)
+chr(46) (.) (dot)
+chr(91) ([) (open square bracket)
+chr(128) - chr(159) (various)
+
