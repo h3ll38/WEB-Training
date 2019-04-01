@@ -20,5 +20,7 @@ chr(128) - chr(159) (various)
             }
             else
             {// code for IE6, IE5
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+            }
  -------> warning version(XXE) send data XML
 
