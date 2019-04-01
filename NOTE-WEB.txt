@@ -13,4 +13,12 @@ chr(32) ( ) (space)
 chr(46) (.) (dot)
 chr(91) ([) (open square bracket)
 chr(128) - chr(159) (various)
+================================================
+ if (window.XMLHttpRequest)
+            {// code for IE7+, Firefox, Chrome, Opera, Safari
+                xmlhttp=new XMLHttpRequest();
+            }
+            else
+            {// code for IE6, IE5
+ -------> warning version(XXE) send data XML
 
