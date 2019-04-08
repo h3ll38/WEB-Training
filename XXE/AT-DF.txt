@@ -9,3 +9,5 @@ payload :file：//host/path
  file://localhost/c:/windows/win.ini
  file:///c|windows/win.ini
  file://localhost/c|windows/win.ini
+ ==========================
+ libxml_disable_entity_loader (false); --> libxml_disable_entity_loader (true);
