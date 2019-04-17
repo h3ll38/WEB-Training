@@ -3,3 +3,5 @@ bypass length --> <?='$_GET[x]'?>
 TECHNIQUE
 1.Blacklist
 if(preg_match('^.*\.(php|php1|php2|php3|php4|php5)', $file)) ==> Upcase,lower case (For example PhP,pHp,...)
+2.PHT file
+https://www.portcullis-security.com/security-research-and-downloads/security-advisories/cve-2015-5074/
