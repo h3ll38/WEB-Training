@@ -2,4 +2,4 @@ exif_imagetype --> type upload
 bypass length --> <?='$_GET[x]'?>
 TECHNIQUE
 1.Blacklist
-if(preg_match('^.*\.(php|php1|php2|php3|php4|php5)', $file))
+if(preg_match('^.*\.(php|php1|php2|php3|php4|php5)', $file)) ==> Upcase,lower case (For example PhP,pHp,...)
