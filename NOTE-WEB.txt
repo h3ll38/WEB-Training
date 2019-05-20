@@ -43,4 +43,5 @@ var_dump($array[0]);
 var_dump($test[4294967296] === $array[0]);
 ?>
 ===========================================
+json - filter text . you can decode unicode like \u0067
 
