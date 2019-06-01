@@ -1,1 +1,10 @@
 https://www.owasp.org/images/e/ed/GOD16-NOSQL.pdf     MongoDB-NOSQL
+===============================
+    Error generation with UNTRUSTED INPUT or SPECIAL CHARACTERS.
+    Finding total number of columns with ORDER BY or GROUP BY.
+    Finding vulnerable columns with UNION OPERATOR.
+    Extracting basic database info with CONCAT() or GROUP_CONCAT().
+    Extracting full table data with GROUP_CONCAT().
+    Checking file privileges with FILE_PRIV.
+    Loading system files with LOAD_FILE().
+    =============================================
