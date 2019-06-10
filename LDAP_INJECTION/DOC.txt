@@ -1,2 +1,3 @@
 https://vi.scribd.com/doc/109951012/L%C3%9D-THUY%E1%BA%BET-V%E1%BB%80-LDAP-VA-%E1%BB%A8NG-D%E1%BB%A4NG-TRONG-CAC-D%E1%BB%8ACH-V%E1%BB%A4-M%E1%BA%A0NG-LINUX
 https://vulnerabilities.teammentor.net/article/61f0d74e-d9b6-4e27-9e12-da65baff83fd
+https://docs.microsoft.com/en-us/windows/desktop/adsi/search-filter-syntax
