@@ -15,4 +15,5 @@ replace :  echo 'Hello ' . str_replace('<script>', '', $_GET['query']);
 ========================================
 developer focus to lower case and upper case in case attacker exploit by pass filter
 <script> = <SCRIPT> or mix <ScRiPt>
+filter alphabet - > used hex or base64
 
